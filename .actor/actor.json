@@ -1,0 +1,12 @@
+{
+    "actorSpecification": 1,
+    "name": "expedia",
+    "title": "Expedia Puppeteer Crawler",
+    "description": "Crawlee and Puppeteer project in JavaScript for Expedia.",
+    "version": "0.0",
+    "meta": {
+        "templateId": "js-crawlee-cheerio"
+    },
+    "input": "./input_schema.json",
+    "dockerfile": "../Dockerfile"
+}
